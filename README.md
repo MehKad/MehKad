@@ -1,0 +1,5 @@
+- 👋 Hi, I’m KADIRI Mehdi
+- 🌱 I’m currently learning git and c++
+- 📫 How to reach me 
+-             Email : Mehkadiri@gmail.com
+-             Instagram : Yvng.medi

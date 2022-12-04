@@ -1,5 +1,5 @@
-<h1 align="center">I’m KADIRI Mehdi</h1>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+A+SoftWare+Engineering+Student;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
+<h1 align="center">I’m Kadiri Mehdi</h1>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+A+SoftWare+Engineering+Student&center=true&width=500&height=50"></a>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <h3>🌱 I’m currently learning CSS and JS</h3>
 <h3>Connect with me</h3>

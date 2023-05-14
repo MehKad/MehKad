@@ -13,11 +13,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Mobile App Development
+- 🌱 I’m currently learning C#
 
 - 📫 How to reach me **mehkadiri@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Current project : Mobile App for <a href="https://www.github.com/MehKad/KeySkillsCenter" target="_blank" >KeySkillsCenter</a>
 
 <br>
 

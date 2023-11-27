@@ -11,14 +11,7 @@
 [!["Buy Me A Pizza"](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/mehkad)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱 I’m currently learning C#
-
 - 📫 How to reach me **mehkadiri@gmail.com**
-
-- ⚡ Current project : Mobile App for <a href="https://www.github.com/MehKad/KeySkillsCenter" target="_blank" >KeySkillsCenter</a>
-
 <br>
 
 <h3 align="left">Connect with me:</h3>

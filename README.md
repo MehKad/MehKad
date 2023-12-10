@@ -11,7 +11,7 @@
 [!["Buy Me A Pizza"](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/mehkad)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-- 📫 How to reach me **mehkadiri@gmail.com**
+- 📫 How to reach me mehkadiri@gmail.com
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -70,12 +70,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=MehKad&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Kadiri" 
     bg_color=#808080/></p>
-
-<br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MehKad&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="kadiri" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MehKad&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="kadiri" /></p>
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehkad&theme=transparent"/></p>

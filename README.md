@@ -3,6 +3,10 @@
 
 <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mehkad)](https://github.com/mehkad/github-profile-trophy)
+
+<br>
+
 <p align="right"> <h3>Profile Views : </h3> <img src="https://komarev.com/ghpvc/?username=MehKad&label=Profile%20views&color=0e75b6&style=flat"
     alt="kadiri-pw" /> </p>
 

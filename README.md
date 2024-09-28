@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadiri Mehdi</h1>
-<h3 align="center">Student at EST, Essaouira🌟.</h3>
+<h3 align="center">Student at ENSIASD, Taroudannt🌟.</h3>
 
 <br>
 

@@ -1,50 +1,81 @@
-<h1 align="center">Hi 👋, I'm Kadiri Mehdi</h1>
-<h3 align="center">Student at ENSIASD, Taroudannt🌟</h3>
-
-## About Me
-I'm a passionate developer with a keen interest in software development and technology. I love exploring new programming languages and frameworks, and I'm always eager to learn and grow my skills. When I'm not coding, you can find me playing video games or enjoying outdoor activities.
-
-## Knowledge and Skills
-Here are some of the programming languages and technologies I am proficient in:
-
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> **Java**: Experienced in building robust and scalable applications.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringBoot" width="20" height="20"/> **JEE & SpringBoot**: Proficient in enterprise Java applications and building RESTful services with SpringBoot.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> **JavaScript**: Proficient in front-end development with React.js and back-end with Node.js.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="20" height="20"/> **HTML & CSS**: Strong foundation in building responsive and accessible web pages.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"/> **React & React Native**: Experienced in building dynamic user interfaces and mobile applications.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20"/> **SQL**: Knowledgeable in database design and management.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20"/> **Git**: Experienced in version control and collaboration using Git and GitHub.
-
-<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=3F8CFF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Kadiri+Mehdi;Software+Engineer" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <a href="https://github.com/mehkad/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mehkad" alt="Kadiri Mehdi's GitHub Trophies">
-  </a>
+    <a href="https://twitter.com/mehkadiri" target="_blank">
+        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a> 
+    <a href="https://www.linkedin.com/in/mehkadiri" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a> 
+    <a href="mailto:mehkadiri@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
 </p>
 
-<p align="right">
-  <h3>Profile Views :</h3>
-  <img src="https://komarev.com/ghpvc/?username=MehKad&label=Profile%20views&color=0e75b6&style=flat" alt="Kadiri Mehdi" />
-</p>
+---
 
-<p align="center">
+<div align="center">
+<table align="center" border="0">
+<tr>
+<td width="55%" valign="top">
+
+### 👨‍💻 About Me
+
+I'm a passionate developer studying at ENSIASD, Taroudannt, with a keen interest in building systems that tackle real-world challenges.
+- 🔭 I’m exploring web and backend development.
+- 🌱 I’m learning modern cloud and database technologies.
+- 👯 I’m open to collaborating on full-stack projects.
+- 💬 Ask me about Java, Spring, or software architecture.
+- ⚡ Fun Fact: I love exploring new countries and experiencing different cultures.
+
+<br/>
+
+<a href="https://www.mehdikadiri.engineer/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-2EA44F?style=for-the-badge&logo=safari" height="40"/>
+</a>
+
+</td>
+<td width="40%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### 🚀 Technical Arsenal
+
+<div align="center">
+  
+| **Programming Languages** | **Frontend & UI** | **Backend & Cloud** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" /> | <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=spring,nodejs,supabase,postgres,mysql" /> |
+| **Java, C, C++, Python, JS** | **React, Tailwind, HTML/CSS** | **Spring, Node, Supabase, Neon** |
+
+</div>
+
+<br/>
+
+---
+
+### 🏆 Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MehKad&show_icons=true&theme=radical&count_private=true" alt="MehKad's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehKad&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>Profile Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=MehKad&label=VIEWS&color=0e75b6&style=for-the-badge" alt="Kadiri Mehdi" />
+  <br/><br/>
   <a href="https://www.buymeacoffee.com/mehkad">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
-</p>
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehKad&show_icons=true&theme=dark" alt="MehKad's GitHub stats">
-</p>
-
-## Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehKad&layout=compact&theme=dark" alt="Top Languages">
-</p>
-
-## Contact Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mehkadiri), follow me on [Twitter](https://twitter.com/mehkadiri), or [Instagram](https://www.instagram.com/meh_kadiri). You can also check out my [portfolio](https://mehkadiri.me) or reach out to me via email at mehkadiri@gmail.com.
-
-Thanks for stopping by! 😊
+</div>

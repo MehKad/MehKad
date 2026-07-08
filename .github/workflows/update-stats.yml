@@ -1,0 +1,34 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:         # allows manual trigger from the Actions tab
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats SVG
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api?username=MehKad&show_icons=true&theme=radical&count_private=true&hide_border=true" -o stats.svg
+
+      - name: Generate Top Languages SVG
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=MehKad&layout=compact&theme=radical&hide_border=true&langs_count=8" -o top-langs.svg
+
+      - name: Generate Streak Stats SVG
+        run: |
+          curl -sL "https://streak-stats.demolab.com?user=MehKad&theme=radical&hide_border=true" -o streak.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg top-langs.svg streak.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update profile stats SVGs" && git push)

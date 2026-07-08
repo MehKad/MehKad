@@ -16,15 +16,19 @@ jobs:
 
       - name: Generate GitHub Stats SVG
         run: |
-          curl -sL "https://github-readme-stats.vercel.app/api?username=MehKad&show_icons=true&theme=radical&count_private=true&hide_border=true" -o stats.svg
+          curl -sL "https://github-stats-extended.vercel.app/api?username=MehKad&show_icons=true&theme=radical&count_private=true&hide_border=true" -o stats.svg
+          # Fail the step if we got an error payload instead of a real SVG (safety net against silently committing broken files)
+          grep -q "<svg" stats.svg || (echo "::error::stats.svg did not contain valid SVG" && cat stats.svg && exit 1)
 
       - name: Generate Top Languages SVG
         run: |
-          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=MehKad&layout=compact&theme=radical&hide_border=true&langs_count=8" -o top-langs.svg
+          curl -sL "https://github-stats-extended.vercel.app/api/top-langs/?username=MehKad&layout=compact&theme=radical&hide_border=true&langs_count=8" -o top-langs.svg
+          grep -q "<svg" top-langs.svg || (echo "::error::top-langs.svg did not contain valid SVG" && cat top-langs.svg && exit 1)
 
       - name: Generate Streak Stats SVG
         run: |
           curl -sL "https://streak-stats.demolab.com?user=MehKad&theme=radical&hide_border=true" -o streak.svg
+          grep -q "<svg" streak.svg || (echo "::error::streak.svg did not contain valid SVG" && cat streak.svg && exit 1)
 
       - name: Commit and push if changed
         run: |

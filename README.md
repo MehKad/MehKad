@@ -1,81 +1,119 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=3F8CFF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Kadiri+Mehdi;Software+Engineer" alt="Typing SVG" />
-</div>
 
-<p align="center">
-    <a href="https://twitter.com/mehkadiri" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a> 
-    <a href="https://www.linkedin.com/in/mehkadiri" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a> 
-    <a href="mailto:mehkadiri@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8CFF,100:8E2DE2&height=220&section=header&text=Kadiri%20Mehdi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
----
-
-<div align="center">
-<table align="center" border="0">
-<tr>
-<td width="55%" valign="top">
-
-### 👨‍💻 About Me
-
-I'm a passionate developer studying at ENSIASD, Taroudannt, with a keen interest in building systems that tackle real-world challenges.
-- 🔭 I’m exploring web and backend development.
-- 🌱 I’m learning modern cloud and database technologies.
-- 👯 I’m open to collaborating on full-stack projects.
-- 💬 Ask me about Java, Spring, or software architecture.
-- ⚡ Fun Fact: I love exploring new countries and experiencing different cultures.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Mehdi;Software+Engineering+Student;Full-Stack+%7C+Java+%2F+Spring+%2F+React;Building+Real-World+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.mehdikadiri.engineer/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-2EA44F?style=for-the-badge&logo=safari" height="40"/>
+<a href="https://twitter.com/mehkadiri" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
+<a href="https://www.linkedin.com/in/mehkadiri" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mehkadiri@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.mehdikadiri.engineer/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2EA44F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **second-year Software Engineering student** at **ENSIASD Taroudant**, Morocco, passionate about building systems that solve real problems — from microservices architectures to full-stack platforms.
+
+```java
+public class Mehdi extends Developer {
+    String role      = "Software Engineer Student";
+    String[] stack   = {"Java", "Spring Boot", "React", "Node.js"};
+    String location  = "Agadir, Morocco 🇲🇦";
+    boolean opentowork = true;
+
+    public String[] currentFocus() {
+        return new String[] {
+            "🔭 Building a microservices NGO platform (KIMES)",
+            "🌱 Deepening cloud & distributed systems knowledge",
+            "👯 Open to full-stack collaborations",
+            "💬 Ask me about Java, Spring, or software architecture",
+            "⚡ Fun fact: I love exploring new countries & cultures"
+        };
+    }
+}
+```
 
 </td>
 <td width="40%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px"/>
 </td>
 </tr>
 </table>
-</div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 🚀 Technical Arsenal
-
-<div align="center">
-  
-| **Programming Languages** | **Frontend & UI** | **Backend & Cloud** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" /> | <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=spring,nodejs,supabase,postgres,mysql" /> |
-| **Java, C, C++, Python, JS** | **React, Tailwind, HTML/CSS** | **Spring, Node, Supabase, Neon** |
-
-</div>
-
-<br/>
-
----
-
-### 🏆 Activity & Stats
+## 🚀 Technical Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehKad&show_icons=true&theme=radical&count_private=true" alt="MehKad's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehKad&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,ts" />
+
+**Frontend & UI**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite" />
+
+**Backend, Cloud & Data**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,supabase,postgres,mysql,docker" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea,linux" />
+
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🏆 GitHub Activity
 
 <div align="center">
-  <h3>Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=MehKad&label=VIEWS&color=0e75b6&style=for-the-badge" alt="Kadiri Mehdi" />
-  <br/><br/>
-  <a href="https://www.buymeacoffee.com/mehkad">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
+
+<img src="https://raw.githubusercontent.com/MehKad/MehKad/main/stats.svg" alt="Mehdi's GitHub stats" height="165"/>
+<img src="https://raw.githubusercontent.com/MehKad/MehKad/main/top-langs.svg" alt="Top Languages" height="165"/>
+
+<img src="https://raw.githubusercontent.com/MehKad/MehKad/main/streak.svg" alt="GitHub Streak" width="80%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MehKad&theme=radical&hide_border=true" alt="Activity Graph" width="100%"/>
+
+</div>
+
+> **Note:** stats/top-langs/streak above are generated by a GitHub Action (`update-stats.yml`) and committed as static SVGs to this repo, so they never break due to the shared public API being rate-limited or shut down.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=MehKad&label=PROFILE+VIEWS&color=3F8CFF&style=for-the-badge" alt="Profile Views" />
+
+<br/><br/>
+
+<a href="https://www.buymeacoffee.com/mehkad">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:3F8CFF&height=100&section=footer" width="100%"/>
+
 </div>

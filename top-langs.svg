@@ -202,7 +202,7 @@
           y="0"
           width="10.91"
           height="8"
-          fill="#178600"
+          fill="#7355dd"
         />
       
       
@@ -258,7 +258,7 @@
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#178600" />
+      <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         C# 0.37%
       </text>
